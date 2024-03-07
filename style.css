@@ -1,0 +1,150 @@
+.abc{
+    margin: 0;
+    padding: 0%;
+    background-color:white;
+}
+.button:hover{
+background-color:white;
+}
+.button{
+ text-decoration: underline;
+ transition-duration: 4s;
+ float:center;
+ border-color: transparent;
+ border-style: solid;
+}
+
+.last{
+    margin: 0%;
+    padding: 0%;
+    float: left;
+    font-display: none;
+}
+.city{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.form{
+    background-color: rgba(0, 0, 0, 0.881);
+}
+.button1 {
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    border-width: 2px;
+    border:  solid transparent;
+  }
+  .button2 {
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: solid transparent;
+  }
+  .button3{
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: solid transparent;
+  }
+.button4 {
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border:solid transparent;
+  }
+.button5 {
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border:solid transparent;
+  }
+    .button6 {
+        background-color: #04aa6d04; /* Green */
+        border: none;
+        color: white;
+        padding:0;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin:0;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border: solid transparent;
+      }
+.button7 {
+    background-color: #04aa6d04; /* Green */
+    border: none;
+    color: white;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:0;
+    border:solid transparent;
+  }
+.button2:hover{
+    background-color:rgba(255, 0, 0, 0.936);
+}
+.button3:hover{
+    background-color:rgba(255, 81, 0, 0.954);
+}
+.button4:hover{
+    background-color:rgba(246, 255, 0, 0.612);
+}
+.button5:hover{
+    background-color:rgb(81, 255, 0);
+}
+.button6:hover{
+    background-color:rgba(0, 217, 255, 0.927);
+}
+.button7:hover{
+    background-color:rgba(89, 0, 255, 0.936);
+}
+body{
+    background-color: white;
+}
+.button8:hover{
+    background-color: rgb(157, 127, 255);
+}
+
